@@ -1,0 +1,165 @@
+.button {
+    padding: 19px 29px;
+    font-size: 11px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    cursor: pointer;
+    outline: none;
+    color: #888e87;
+    background-color: #1f2d3a;
+    border: none;
+    margin-left: 61px;
+    transition: all 0.3s;
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #1f2d3a;
+    color: #90a3b5;
+    border: 2px solid #90a3b5;
+   
+  }
+  
+  .button:hover {background-color:  #fac11c}
+  
+  .button:active {
+    background-color: #fac11c;
+    color: #25303a;
+    font-family:'Open Sans', sans-serif;
+  }
+  .button2 {
+    padding: 7px 6px;
+    font-size: 11px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    cursor: pointer;
+    outline: none;
+    color: #888e87;
+    background-color: #1f2d3a;
+    border: none;
+   
+   
+  }
+  
+  .button2:hover {background-color: #1f2d3a}
+  
+  .button2:active {
+    background-color: #fac11c;
+    color: #25303a;
+    font-family:'Open Sans', sans-serif;
+  }
+  .bg{
+      background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Coal_Haul_Truck_at_North_Antelope_Rochelle.png/1280px-Coal_Haul_Truck_at_North_Antelope_Rochelle.png);
+      background-repeat: no-repeat;
+      background-size: 1500px 600px;
+      height: 600px;
+      
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color:  #fac11c;}
+.top{
+    margin-top: 265px;
+    margin-left: 166px;
+    font-family:'Open Sans', sans-serif;
+    color: #ffffff;
+    Font-Weight: Bold;
+    font-size: 26px;
+}
+.logo { 
+    position: absolute; 
+    top: 17px; 
+    left: 156px; 
+    }
+    .hth{
+        height: 100px;
+        background-color: #fac11c;
+    }
+.bg1{
+    background-color: #333;
+}
+table{
+    border-collapse: collapse; 
+}
+.BG2{
+    background-color: #1f2d3a;
+}
+.police{
+    font-family:'Open Sans', sans-serif;
+    text-align: center;
+    color: #fac11c;
+    font-size: 47px;
+    letter-spacing: -1px;
+    text-align: right;
+}
+.color{
+   
+    font-family:'Open Sans Condensed', sans-serif;
+    color: #fff;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    font-size: 29px;
+}
+.tab{
+margin: 0 0 10px;
+-webkit-font-smoothing: antialiased;
+font-size: 18px;
+font-weight: 300;
+color: #90a3b5;
+margin-bottom: 30px;
+line-height: 31px;
+font-family:'Open Sans Condensed', sans-serif;
+margin-left: 50px;
+    text-align: left;
+}
+.color1{
+    color: #ffffff;
+    font-family:'Open Sans', sans-serif;
+    font-size: 35px;
+    letter-spacing: -1px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    margin-left: 50px;
+text-align: left;
+    
+}
+.color3{
+    color: #fac11c;
+}
+.tab1{
+    margin: 0 0 10px;
+    -webkit-font-smoothing: antialiased;
+    font-size: 18px;
+    font-weight: 300;
+    color: #90a3b5;
+    margin-bottom: 30px;
+    line-height: 31px;
+}
+.bg3{
+    background-color: #1f2d3a;
+}
+.h{
+    color: #fff;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    font-size: 29px;
+    text-align: center;
+}
